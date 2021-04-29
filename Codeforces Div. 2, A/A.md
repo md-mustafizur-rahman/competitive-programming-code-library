@@ -18,7 +18,7 @@
 
 ##  strings : https://codeforces.com/contest/1379/problem/A
 
-##  *** math : https://codeforces.com/contest/1498/problem/A
+##  1*** math : https://codeforces.com/contest/1498/problem/A
 
 ## **sortings : https://codeforces.com/contest/1450/problem/A
 
